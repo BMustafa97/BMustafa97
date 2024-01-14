@@ -1,6 +1,3 @@
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 # Hello, tis Bilal! 
 
 and I am 
