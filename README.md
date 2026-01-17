@@ -29,12 +29,6 @@ What is in this GitHub account?
 ## 📊 GitHub Activity
 
 <p align="center">
-  <a href="https://github.com/BMustafa97">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=BMustafa97&theme=github-dark&hide_border=true&area=true" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BMustafa97&theme=github_dark" />
 </p>
 
