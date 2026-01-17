@@ -13,10 +13,33 @@ What is in this GitHub account?
 - Innovating simple web applications with Flask
 - IOS App for a local charity
 
+## 🛠️ Tech Stack & Tools
+
 <p align="center">
-  <img src ="https://github-readme-stats.vercel.app/api?username=BMustafa97&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=BMustafa97&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=BMustafa97&theme=darcula&hide_border=true&background=FFFFFF00">
-  <br> 
+  <img src="https://img.shields.io/badge/DevOps-000000?style=for-the-badge&logo=devops&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</p>
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <a href="https://github.com/BMustafa97">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=BMustafa97&theme=github-dark&hide_border=true&area=true" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BMustafa97&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BMustafa97&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BMustafa97&theme=github_dark" />
 </p>
 
